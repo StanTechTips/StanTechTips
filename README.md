@@ -1,28 +1,28 @@
-<!-- ═══════════════════════════════════════ CINEMATIC HEADER ══════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0014,50:2D0050,100:8B0000&height=230&section=header&text=STAN%20PETROV&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=44&desc=Azure%20Cloud%20Engineer%20%E2%80%94%20London%2C%20UK&descAlignY=68&descAlign=50" width="100%" />
+<!-- ══════════════════════ VENOM HEADER — ELECTRIC TWINKLING ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0014,50:1A0035,100:9B00FF&height=280&text=STAN%20PETROV&fontSize=72&fontColor=FFFFFF&animation=twinkling&fontAlignY=50&desc=Azure%20Cloud%20Engineer%20%E2%80%94%20London%2C%20UK&descAlign=50&descAlignY=68&descSize=20" width="100%" />
 
-<!-- OPENING QUOTE -->
+<!-- CHARACTER STATUS CARD -->
 <p align="center">
-  <sub><i>"The strongest are not those who win every battle — but those who keep building after every outage."</i></sub>
-</p>
-
-<br/>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=9B00FF&center=true&vCenter=true&width=720&lines=Azure+Cloud+Engineer+%E2%80%94+12+Certifications+Earned+%E2%9A%A1;Architect+of+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Azure+%7C+M365+%7C+Entra+ID+%7C+Terraform+%7C+Sentinel;AI-102+Quest+%E2%80%94+September+2026+%F0%9F%8E%AF;Building+in+the+Dark%2C+Shining+in+Production" alt="Typing animation" />
-</p>
-
-<!-- STATUS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEGENDARY-9B00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLASS-Cloud%20Architect-0D0014?style=for-the-badge&labelColor=9B00FF&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CERTIFICATIONS-12%2B-FF003C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GUILD-TrustedTech%20Avengers-0D0014?style=for-the-badge&labelColor=FF003C&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/QUEST-AI--102-00D4FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BASE-London%2C%20UK-0D0014?style=for-the-badge&labelColor=00D4FF&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CERTS-12%2B%20EARNED-0D0014?style=for-the-badge&labelColor=FFD700&logoColor=white" />
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- OPENING TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=9B00FF&center=true&vCenter=true&width=750&lines=Azure+Cloud+Engineer+%E2%80%94+12+Certifications+Earned+%E2%9A%A1;Architect+of+Enterprise+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Azure+%7C+M365+%7C+Entra+ID+%7C+Terraform+%7C+Sentinel;The+AI-102+Quest+is+Underway+%F0%9F%8E%AF;Building+in+the+Dark%2C+Shining+in+Production+%F0%9F%94%A5;Defender+of+the+Cloud+Realm+%E2%80%94+No+Outage+Survived" />
+</p>
+
+<!-- ACTIVE QUEST BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20ACTIVE%20QUEST-AI--102%20Azure%20AI%20Engineer%20%E2%80%94%20Sep%202026-FF003C?style=for-the-badge&logoColor=white" />
+</p>
+
+<!-- SOCIAL + PROFILE BADGES -->
 <p align="center">
   <a href="https://www.youtube.com/@StanTechTip">
     <img src="https://img.shields.io/badge/YouTube-StanTechTips-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -45,11 +45,11 @@
 
 <br/>
 
----
+<!-- ══════════════════════ DIVIDER 1 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B00FF,100:FF003C&height=3" width="100%" />
 
-<!-- ══════════════════════════ ARC I — THE ENGINEER ══════════════════════════ -->
-
-<h2 align="center">⚡ ARC I &nbsp;—&nbsp; THE ENGINEER ⚡</h2>
+<!-- ══════════════════════ ARC I — THE ENGINEER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%E2%9A%A1%20ARC%20I%20%E2%80%94%20THE%20ENGINEER%20%E2%9A%A1&fontSize=34&fontColor=9B00FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 I'm a cloud engineer working hands-on with Microsoft's ecosystem every day — provisioning Azure infrastructure, administering M365 tenants, managing endpoints with Intune, securing identities with Entra ID, and writing PowerShell automation that actually saves time.
 
@@ -66,11 +66,13 @@ What I build here on GitHub is the same stuff I run in real enterprise environme
 | ⚙️ **Automation** | PowerShell · Power Automate · Power Platform |
 | 🤖 **AI** | Azure AI Services · Copilot Studio · Microsoft Sentinel |
 
----
+<br/>
 
-<!-- ══════════════════════════ ARC II — THE ARSENAL ══════════════════════════ -->
+<!-- ══════════════════════ DIVIDER 2 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:00D4FF&height=3" width="100%" />
 
-<h2 align="center">🔥 ARC II &nbsp;—&nbsp; THE ARSENAL 🔥</h2>
+<!-- ══════════════════════ ARC II — THE ARSENAL ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%94%A5%20ARC%20II%20%E2%80%94%20THE%20ARSENAL%20%F0%9F%94%A5&fontSize=34&fontColor=FF003C&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,powershell,terraform,github,vscode,linux,windows&perline=7&theme=dark" />
@@ -121,11 +123,13 @@ What I build here on GitHub is the same stuff I run in real enterprise environme
 ![Azure AI](https://img.shields.io/badge/Azure_AI_Services-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
----
+<br/>
 
-<!-- ══════════════════════════ ARC III — ACHIEVEMENTS ══════════════════════════ -->
+<!-- ══════════════════════ DIVIDER 3 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:9B00FF&height=3" width="100%" />
 
-<h2 align="center">🏆 ARC III &nbsp;—&nbsp; ACHIEVEMENTS UNLOCKED 🏆</h2>
+<!-- ══════════════════════ ARC III — ACHIEVEMENTS ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%8F%86%20ARC%20III%20%E2%80%94%20ACHIEVEMENTS%20UNLOCKED%20%F0%9F%8F%86&fontSize=32&fontColor=FFD700&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=StanTechTips&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
@@ -157,16 +161,18 @@ What I build here on GitHub is the same stuff I run in real enterprise environme
 
 <p align="center">
   <br/>
-  <img src="https://img.shields.io/badge/NEXT_TARGET-AI--102_Azure_AI_Engineer_Associate-FF003C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20NEXT%20TARGET-AI--102%20Azure%20AI%20Engineer%20Associate-FF003C?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ETA-September_2026-9B00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETA-September%202026-9B00FF?style=for-the-badge" />
 </p>
 
----
+<br/>
 
-<!-- ══════════════════════════ ARC IV — ACTIVE MISSIONS ══════════════════════════ -->
+<!-- ══════════════════════ DIVIDER 4 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B00FF,100:FF003C&height=3" width="100%" />
 
-<h2 align="center">🗡️ ARC IV &nbsp;—&nbsp; ACTIVE MISSIONS 🗡️</h2>
+<!-- ══════════════════════ ARC IV — ACTIVE MISSIONS ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%97%A1%EF%B8%8F%20ARC%20IV%20%E2%80%94%20ACTIVE%20MISSIONS%20%F0%9F%97%A1%EF%B8%8F&fontSize=34&fontColor=FF003C&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 ### Active Directory Home Lab
 Enterprise-grade AD environment built from scratch — Domain Controller, OU structure, DNS, bulk user provisioning via PowerShell (110 users), and four GPOs covering password policy, account lockout, USB restrictions, and wallpaper deployment. Full network architecture diagram included.
@@ -186,15 +192,17 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 
 <br/>
 
-### Coming Soon — Under Construction
+### Incoming — Under Construction
 - **Azure Home Lab (Terraform)** — Cloud-native infrastructure lab, provisioned entirely with Terraform, documented step by step.
 - **PowerShell M365 Toolkit** — Reusable admin scripts: user onboarding, licence management, Intune exports, Entra ID reporting.
 
----
+<br/>
 
-<!-- ══════════════════════════ ARC V — COMBAT RECORD ══════════════════════════ -->
+<!-- ══════════════════════ DIVIDER 5 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:00D4FF&height=3" width="100%" />
 
-<h2 align="center">📊 ARC V &nbsp;—&nbsp; COMBAT RECORD 📊</h2>
+<!-- ══════════════════════ ARC V — COMBAT RECORD ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%93%8A%20ARC%20V%20%E2%80%94%20COMBAT%20RECORD%20%F0%9F%93%8A&fontSize=34&fontColor=00D4FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StanTechTips&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
@@ -209,11 +217,13 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanTechTips&theme=tokyo-night&hide_border=true&area=true&color=9B00FF&line=FF003C&point=00D4FF" width="100%" />
 </p>
 
----
+<br/>
 
-<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
+<!-- ══════════════════════ DIVIDER 6 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:9B00FF&height=3" width="100%" />
 
-<h2 align="center">🐍 CONTRIBUTION TRAIL 🐍</h2>
+<!-- ══════════════════════ CONTRIBUTION SNAKE ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%90%8D%20CONTRIBUTION%20TRAIL%20%F0%9F%90%8D&fontSize=30&fontColor=00D4FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
 <picture>
@@ -223,11 +233,13 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 </picture>
 </p>
 
----
+<br/>
 
-<!-- ══════════════════════════ YOUTUBE ══════════════════════════ -->
+<!-- ══════════════════════ DIVIDER 7 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B00FF,100:FF003C&height=3" width="100%" />
 
-<h2 align="center">📺 StanTechTips &nbsp;|&nbsp; YouTube</h2>
+<!-- ══════════════════════ YOUTUBE ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%93%BA%20StanTechTips%20on%20YouTube&fontSize=30&fontColor=FF0000&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
   Microsoft 365, Azure, and IT administration tutorials — real configs, real environments, no fluff.
@@ -237,11 +249,17 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Microsoft+365+%7C+Azure+%7C+PowerShell+Tutorials;Real+configs.+Real+environments.+No+fluff.;New+videos+dropping+—+Subscribe+to+stay+sharp+%E2%9A%A1" />
+</p>
 
-<!-- ══════════════════════════ TRANSMISSION ══════════════════════════ -->
+<br/>
 
-<h2 align="center">📡 TRANSMISSION &nbsp;—&nbsp; Let's Work Together</h2>
+<!-- ══════════════════════ DIVIDER 8 ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:00D4FF&height=3" width="100%" />
+
+<!-- ══════════════════════ TRANSMISSION ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%93%A1%20TRANSMISSION%20%E2%80%94%20Let%27s%20Work%20Together&fontSize=28&fontColor=9B00FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">Open to <strong>remote full-time roles</strong> and <strong>freelance engagements</strong> across the Microsoft cloud stack.</p>
 
@@ -258,5 +276,5 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 
 <br/>
 
-<!-- ══════════════════════════ CINEMATIC FOOTER ══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6B0000,50:2D0050,100:0D0014&height=140&section=footer" width="100%" />
+<!-- ══════════════════════ VENOM FOOTER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9B00FF,50:1A0035,100:0D0014&height=180&section=footer&animation=twinkling" width="100%" />
