@@ -1,28 +1,28 @@
-<!-- ══════════════════════ VENOM HEADER — ELECTRIC TWINKLING ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0014,50:1A0035,100:9B00FF&height=280&text=STAN%20PETROV&fontSize=72&fontColor=FFFFFF&animation=twinkling&fontAlignY=50&desc=Azure%20Cloud%20Engineer%20%E2%80%94%20London%2C%20UK&descAlign=50&descAlignY=68&descSize=20" width="100%" />
+<!-- ══════════════════════ VENOM HEADER — AZURE MIDNIGHT ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,50:0a2540,100:0078D4&height=280&text=STAN%20PETROV&fontSize=72&fontColor=FFFFFF&animation=twinkling&fontAlignY=50&desc=Associate%20Cloud%20Architect%20%E2%80%94%20London%2C%20UK&descAlign=50&descAlignY=68&descSize=20" width="100%" />
 
 <!-- CHARACTER STATUS CARD -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CLASS-Cloud%20Architect-0D0014?style=for-the-badge&labelColor=9B00FF&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLASS-Associate%20Cloud%20Architect-020817?style=for-the-badge&labelColor=0078D4" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GUILD-TrustedTech%20Avengers-0D0014?style=for-the-badge&labelColor=FF003C&logoColor=white" />
+  <img src="https://img.shields.io/badge/GUILD-TrustedTech%20Avengers-020817?style=for-the-badge&labelColor=70AD47" />
   &nbsp;
-  <img src="https://img.shields.io/badge/BASE-London%2C%20UK-0D0014?style=for-the-badge&labelColor=00D4FF&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20Years%20in%20IT-020817?style=for-the-badge&labelColor=00B4D8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CERTS-12%2B%20EARNED-0D0014?style=for-the-badge&labelColor=FFD700&logoColor=white" />
+  <img src="https://img.shields.io/badge/CERTS-13%20Earned-020817?style=for-the-badge&labelColor=FFD700&color=020817" />
 </p>
 
-<!-- OPENING TYPING ANIMATION -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=9B00FF&center=true&vCenter=true&width=750&lines=Azure+Cloud+Engineer+%E2%80%94+12+Certifications+Earned+%E2%9A%A1;Architect+of+Enterprise+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Azure+%7C+M365+%7C+Entra+ID+%7C+Terraform+%7C+Sentinel;The+AI-102+Quest+is+Underway+%F0%9F%8E%AF;Building+in+the+Dark%2C+Shining+in+Production+%F0%9F%94%A5;Defender+of+the+Cloud+Realm+%E2%80%94+No+Outage+Survived" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=50E6FF&center=true&vCenter=true&width=760&lines=Associate+Cloud+Architect+%E2%80%94+13+Certifications+%E2%9A%A1;Azure+Infrastructure+Engineer+%7C+IaC+Specialist+%E2%98%81%EF%B8%8F;Azure+%7C+M365+%7C+Entra+ID+%7C+Terraform+%7C+Sentinel;DevOps+%26+IaC+%E2%80%94+Bicep+%C2%B7+ARM+%C2%B7+Ansible+%C2%B7+Pulumi;Cloud+Security+Advocate+%E2%80%94+Defender+%C2%B7+Zero+Trust;AI-102+Quest+%E2%80%94+September+2026+%F0%9F%8E%AF" />
 </p>
 
 <!-- ACTIVE QUEST BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20ACTIVE%20QUEST-AI--102%20Azure%20AI%20Engineer%20%E2%80%94%20Sep%202026-FF003C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20ACTIVE%20QUEST-AI--102%20Azure%20AI%20Engineer%20%E2%80%94%20Sep%202026-0078D4?style=for-the-badge" />
 </p>
 
-<!-- SOCIAL + PROFILE BADGES -->
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.youtube.com/@StanTechTip">
     <img src="https://img.shields.io/badge/YouTube-StanTechTips-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -33,102 +33,141 @@
   </a>
   &nbsp;
   <a href="https://stanpetrov-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9B00FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:Fredroostarr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=StanTechTips&style=for-the-badge&color=9B00FF&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=StanTechTips&style=for-the-badge&color=0078D4&label=Profile+Views" />
 </p>
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 1 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B00FF,100:FF003C&height=3" width="100%" />
+<!-- STATS ROW -->
+<p align="center">
+  <img src="https://img.shields.io/badge/4%2B-Years%20in%20IT-020817?style=flat-square&labelColor=0078D4&color=020817" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/13-Certifications-020817?style=flat-square&labelColor=FFD700&color=020817" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/9-Azure%20Exams-020817?style=flat-square&labelColor=50E6FF&color=020817" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/4-Roles%20Held-020817?style=flat-square&labelColor=70AD47&color=020817" />
+</p>
 
-<!-- ══════════════════════ ARC I — THE ENGINEER ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%E2%9A%A1%20ARC%20I%20%E2%80%94%20THE%20ENGINEER%20%E2%9A%A1&fontSize=34&fontColor=9B00FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+<br/>
 
-I'm a cloud engineer working hands-on with Microsoft's ecosystem every day — provisioning Azure infrastructure, administering M365 tenants, managing endpoints with Intune, securing identities with Entra ID, and writing PowerShell automation that actually saves time.
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D4,100:50E6FF&height=3" width="100%" />
 
-What I build here on GitHub is the same stuff I run in real enterprise environments. Everything is documented properly — built to be useful to other engineers, not just to me.
+<!-- ══ ARC I ══ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%E2%9A%A1%20ARC%20I%20%E2%80%94%20THE%20ENGINEER%20%E2%9A%A1&fontSize=34&fontColor=50E6FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+
+Cloud engineer working hands-on with Microsoft's ecosystem every day — provisioning Azure infrastructure, administering M365 tenants, managing endpoints with Intune, securing identities with Entra ID, and writing PowerShell & Terraform automation that actually saves time.
+
+What I build here on GitHub mirrors what I run in real enterprise environments. Documented properly — useful to other engineers, not just to me.
 
 **Available for remote roles and freelance projects:**
 
 | Domain | Weapons of Choice |
 |--------|-------------------|
-| ☁️ **Azure** | Infrastructure · Migrations · IaC (Terraform) · Hub-Spoke · Firewall |
-| 📦 **M365** | Tenant Setup · Administration · Security Hardening |
-| 🔐 **Identity** | Entra ID · Conditional Access · SSPR · MFA · RBAC |
-| 💻 **Endpoints** | Intune · Autopilot · SCCM/MECM · Tanium |
-| ⚙️ **Automation** | PowerShell · Power Automate · Power Platform |
-| 🤖 **AI** | Azure AI Services · Copilot Studio · Microsoft Sentinel |
+| ☁️ **Core Azure** | VMs · Networking · Load Balancer · Front Door · CDN · Blob · ADLS |
+| 📦 **M365 & Endpoints** | Exchange Online · Teams · SharePoint · Intune · Autopilot · SCCM |
+| 🔐 **Security & Identity** | Entra ID · Conditional Access · Key Vault · Defender · Sentinel · Zero Trust |
+| 🐳 **Containers & K8s** | AKS · Container Apps · ACR · Helm · Docker · ArgoCD |
+| ⚙️ **DevOps & IaC** | Azure DevOps · GitHub Actions · Terraform · Bicep/ARM · Ansible · Pulumi |
+| 🤖 **AI & Automation** | Azure AI Services · Copilot Studio · Power Automate · Logic Apps |
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 2 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:00D4FF&height=3" width="100%" />
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:50E6FF,100:70AD47&height=3" width="100%" />
 
-<!-- ══════════════════════ ARC II — THE ARSENAL ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%94%A5%20ARC%20II%20%E2%80%94%20THE%20ARSENAL%20%F0%9F%94%A5&fontSize=34&fontColor=FF003C&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+<!-- ══ ARC II ══ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%94%A5%20ARC%20II%20%E2%80%94%20THE%20ARSENAL%20%F0%9F%94%A5&fontSize=34&fontColor=70AD47&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,powershell,terraform,github,vscode,linux,windows&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,github,vscode,linux,windows,python&perline=9&theme=dark" />
 </p>
 
 <br/>
 
-**Cloud & Microsoft 365**
+**Core Azure**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=flat-square&logo=microsoft-exchange&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat-square&logo=microsoft-onedrive&logoColor=white)
+![Azure VMs](https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Networking](https://img.shields.io/badge/Azure_Networking-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Front Door](https://img.shields.io/badge/Azure_Front_Door-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure CDN](https://img.shields.io/badge/Azure_CDN-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Blob](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure DNS](https://img.shields.io/badge/Azure_DNS-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**Containers & Kubernetes**
+
+![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service-0078D4?style=flat-square&logo=kubernetes&logoColor=white)
+![ACR](https://img.shields.io/badge/Azure_Container_Registry-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Container Apps](https://img.shields.io/badge/Azure_Container_Apps-00B4D8?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Serverless & PaaS**
+
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
+![App Service](https://img.shields.io/badge/Azure_App_Service-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Event Grid](https://img.shields.io/badge/Azure_Event_Grid-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![API Management](https://img.shields.io/badge/Azure_APIM-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**Data & Databases**
+
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Redis](https://img.shields.io/badge/Azure_Cache_for_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Security & Identity**
 
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Defender](https://img.shields.io/badge/Microsoft_Defender-00B294?style=flat-square&logo=microsoft&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-**Scripting & Infrastructure as Code**
+**DevOps & IaC**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep_/_ARM-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+
+**Observability**
+
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![App Insights](https://img.shields.io/badge/Application_Insights-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Languages & Tools**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-**Device Management**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Autopilot](https://img.shields.io/badge/Windows_Autopilot-0078D4?style=flat-square&logo=windows&logoColor=white)
-![SCCM](https://img.shields.io/badge/SCCM_/_MECM-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Tanium](https://img.shields.io/badge/Tanium-FF6B00?style=flat-square&logoColor=white)
-
-**Backup & Virtualisation**
-
 ![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
-![Dell EMC](https://img.shields.io/badge/Dell_EMC_Avamar-007DB8?style=flat-square&logo=dell&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_vCloud-607078?style=flat-square&logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Citrix](https://img.shields.io/badge/Citrix-007AC1?style=flat-square&logo=citrix&logoColor=white)
-
-**Automation & AI**
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI_Services-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 3 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:9B00FF&height=3" width="100%" />
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:70AD47,100:FFD700&height=3" width="100%" />
 
-<!-- ══════════════════════ ARC III — ACHIEVEMENTS ══════════════════════ -->
+<!-- ══ ARC III ══ -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%8F%86%20ARC%20III%20%E2%80%94%20ACHIEVEMENTS%20UNLOCKED%20%F0%9F%8F%86&fontSize=32&fontColor=FFD700&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
@@ -159,23 +198,22 @@ What I build here on GitHub is the same stuff I run in real enterprise environme
 | A+ | Foundational | Active |
 | Project+ | Foundational | Active |
 
-<p align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20NEXT%20TARGET-AI--102%20Azure%20AI%20Engineer%20Associate-FF003C?style=for-the-badge" />
+<p align="center"><br/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20NEXT%20TARGET-AI--102%20Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ETA-September%202026-9B00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETA-September%202026-FFD700?style=for-the-badge&color=020817" />
 </p>
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 4 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B00FF,100:FF003C&height=3" width="100%" />
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:50E6FF&height=3" width="100%" />
 
-<!-- ══════════════════════ ARC IV — ACTIVE MISSIONS ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%97%A1%EF%B8%8F%20ARC%20IV%20%E2%80%94%20ACTIVE%20MISSIONS%20%F0%9F%97%A1%EF%B8%8F&fontSize=34&fontColor=FF003C&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+<!-- ══ ARC IV ══ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%97%A1%EF%B8%8F%20ARC%20IV%20%E2%80%94%20ACTIVE%20MISSIONS%20%F0%9F%97%A1%EF%B8%8F&fontSize=34&fontColor=70AD47&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 ### Active Directory Home Lab
-Enterprise-grade AD environment built from scratch — Domain Controller, OU structure, DNS, bulk user provisioning via PowerShell (110 users), and four GPOs covering password policy, account lockout, USB restrictions, and wallpaper deployment. Full network architecture diagram included.
+Enterprise-grade AD environment built from scratch — Domain Controller, OU structure, DNS, bulk user provisioning via PowerShell (110 users), and four GPOs covering password policy, account lockout, USB restrictions, and wallpaper deployment.
 
 `VirtualBox` `Windows Server 2022` `Active Directory` `PowerShell` `DNS` `GPO`
 
@@ -198,11 +236,11 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 5 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:00D4FF&height=3" width="100%" />
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:50E6FF,100:0078D4&height=3" width="100%" />
 
-<!-- ══════════════════════ ARC V — COMBAT RECORD ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%93%8A%20ARC%20V%20%E2%80%94%20COMBAT%20RECORD%20%F0%9F%93%8A&fontSize=34&fontColor=00D4FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+<!-- ══ ARC V ══ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=90&text=%F0%9F%93%8A%20ARC%20V%20%E2%80%94%20COMBAT%20RECORD%20%F0%9F%93%8A&fontSize=34&fontColor=00B4D8&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StanTechTips&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
@@ -214,16 +252,16 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanTechTips&theme=tokyo-night&hide_border=true&area=true&color=9B00FF&line=FF003C&point=00D4FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanTechTips&theme=tokyo-night&hide_border=true&area=true&color=50E6FF&line=0078D4&point=FFD700" width="100%" />
 </p>
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 6 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:9B00FF&height=3" width="100%" />
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D4,100:70AD47&height=3" width="100%" />
 
-<!-- ══════════════════════ NINJA TRAIL ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%A5%B7%20NINJA%20CONTRIBUTION%20TRAIL%20%F0%9F%A5%B7&fontSize=30&fontColor=9B00FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+<!-- ══ NINJA TRAIL ══ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%A5%B7%20NINJA%20CONTRIBUTION%20TRAIL%20%F0%9F%A5%B7&fontSize=30&fontColor=70AD47&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
 <picture>
@@ -235,10 +273,10 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 7 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B00FF,100:FF003C&height=3" width="100%" />
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:70AD47,100:50E6FF&height=3" width="100%" />
 
-<!-- ══════════════════════ YOUTUBE ══════════════════════ -->
+<!-- ══ YOUTUBE ══ -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%93%BA%20StanTechTips%20on%20YouTube&fontSize=30&fontColor=FF0000&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
@@ -250,16 +288,16 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Microsoft+365+%7C+Azure+%7C+PowerShell+Tutorials;Real+configs.+Real+environments.+No+fluff.;New+videos+dropping+—+Subscribe+to+stay+sharp+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=50E6FF&center=true&vCenter=true&width=620&lines=Azure+%7C+M365+%7C+PowerShell+%7C+Terraform+Tutorials;Real+configs.+Real+environments.+No+fluff.;New+videos+dropping+%E2%80%94+Subscribe+to+stay+sharp+%E2%9A%A1" />
 </p>
 
 <br/>
 
-<!-- ══════════════════════ DIVIDER 8 ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:00D4FF&height=3" width="100%" />
+<!-- ══ DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:50E6FF,100:0078D4&height=3" width="100%" />
 
-<!-- ══════════════════════ TRANSMISSION ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%93%A1%20TRANSMISSION%20%E2%80%94%20Let%27s%20Work%20Together&fontSize=28&fontColor=9B00FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+<!-- ══ TRANSMISSION ══ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%93%A1%20TRANSMISSION%20%E2%80%94%20Let%27s%20Work%20Together&fontSize=28&fontColor=0078D4&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">Open to <strong>remote full-time roles</strong> and <strong>freelance engagements</strong> across the Microsoft cloud stack.</p>
 
@@ -276,5 +314,5 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 
 <br/>
 
-<!-- ══════════════════════ VENOM FOOTER ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9B00FF,50:1A0035,100:0D0014&height=180&section=footer&animation=twinkling" width="100%" />
+<!-- ══ AZURE VENOM FOOTER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0078D4,50:0a2540,100:020817&height=180&section=footer&animation=twinkling" width="100%" />
