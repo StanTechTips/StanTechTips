@@ -1,9 +1,9 @@
-name: Generate Snake Animation
+name: Generate Ninja Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 2 * * *"   # daily at 02:00 UTC
+  workflow_dispatch:       # manual trigger from Actions tab
 
 permissions:
   contents: write
@@ -11,15 +11,29 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate ninja SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER:  ${{ github.repository_owner }}
+        run: python .github/scripts/generate_ninja.py
+
+      - name: Deploy SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
