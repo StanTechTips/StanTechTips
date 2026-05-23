@@ -222,14 +222,14 @@ AI-powered internal help desk agent built with Microsoft Copilot Studio and Powe
 <!-- ══════════════════════ DIVIDER 6 ══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:9B00FF&height=3" width="100%" />
 
-<!-- ══════════════════════ CONTRIBUTION SNAKE ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%90%8D%20CONTRIBUTION%20TRAIL%20%F0%9F%90%8D&fontSize=30&fontColor=00D4FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
+<!-- ══════════════════════ NINJA TRAIL ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=%F0%9F%A5%B7%20NINJA%20CONTRIBUTION%20TRAIL%20%F0%9F%A5%B7&fontSize=30&fontColor=9B00FF&animation=twinkling&fontAlign=50&fontAlignY=60" width="100%" />
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StanTechTips/StanTechTips/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StanTechTips/StanTechTips/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/StanTechTips/StanTechTips/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StanTechTips/StanTechTips/output/github-ninja-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StanTechTips/StanTechTips/output/github-ninja.svg" />
+  <img alt="ninja contribution trail" src="https://raw.githubusercontent.com/StanTechTips/StanTechTips/output/github-ninja-dark.svg" />
 </picture>
 </p>
 
